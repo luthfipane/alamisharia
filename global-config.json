@@ -1,0 +1,18 @@
+{
+  "city": "Tangerang",
+  "no_phone": "081234567",
+  "address1": "Jalan1",
+  "address2": {
+    "create": "Jalan2",
+    "edit": "Jalan edit"
+  },
+  "state": "Kota Tangerang",
+  "country": "Indonesia",
+  "postalcode": "1234",
+  "territory": "Tangerang",
+  "search_city": { 
+    "view": "Boston",
+    "edit": "Boston",
+    "delete": "Tangerang"
+  }
+}
